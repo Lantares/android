@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<videonews>
+<news id="10">
+<title>wang</title>
+<timelength>20</timelength>
+</news>
+<news id="45">
+<title>jia</title>
+<timelength>10</timelength>
+</news>
+<news id="89">
+<title>android</title>
+<timelength>50</timelength>
+</news>
+</videonews>
